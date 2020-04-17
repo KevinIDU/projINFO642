@@ -21,12 +21,7 @@
 	</p>
     </form>
 
-
-
 <?php
-// Creer base de donnée : avec id(int) , pseudo(varchar),  message (varchar) 
-
-
 // Connexion à la base de données
 try
 {
