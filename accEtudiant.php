@@ -22,7 +22,16 @@
 			<input type="submit" id='submit' value='MES DEMANDES' >
 			<input type="submit" id='submit' value='CONTACTER UN ENSEIGNANT' >
 			<input type="submit" id='submit' value='ENQUETE DE SATISFACTION' >
+			
 			</div>
+			<div id="notifTchat">
+			Notifications tchat
+			</div>
+			
+			<div id="Carrousel">
+			Carrousel d'images ?
+			</div>
+			
 
 		<div id="contenu">
 		Version Etudiant
