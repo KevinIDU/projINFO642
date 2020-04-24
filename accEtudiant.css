@@ -40,7 +40,16 @@ float:left;
 width:240px;
 height:420;
 background-color:#fff;
+
 }
+#notifTchat	{
+position:absolute; bottom:380; left:50;
+}	
+
+#Carrousel{
+position:absolute; bottom:80; left:50;
+}
+	
 #contenu {
 margin-left:245px;
 background-color:#fff;
