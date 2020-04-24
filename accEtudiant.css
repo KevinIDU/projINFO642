@@ -1,4 +1,5 @@
 
+
 body{
     background: #0A8BBF;
 }
@@ -38,12 +39,12 @@ margin:auto;
 #menu  {
 float:left;
 width:240px;
-height:420;
+height:490;
 background-color:#fff;
 
 }
 #notifTchat	{
-position:absolute; bottom:380; left:50;
+position:absolute; bottom:300; left:50;
 }	
 
 #Carrousel{
@@ -71,5 +72,7 @@ input[type=submit] {
     cursor: pointer;
     width: 100%;
 }
+
+
 
 
