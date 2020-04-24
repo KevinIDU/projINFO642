@@ -21,6 +21,7 @@
 			<input type="submit" id='submit' value='FAIRE UNE DEMANDE' >
 			<input type="submit" id='submit' value='MES DEMANDES' >
 			<input type="submit" id='submit' value='CONTACTER UN ENSEIGNANT' >
+			<input type="submit" id='submit' value='CONTACTER UN TECHNICIEN' >
 			<input type="submit" id='submit' value='ENQUETE DE SATISFACTION' >
 			
 			</div>
