@@ -7,7 +7,7 @@ body{
 img{
 	width: 18%;
 	height: auto;
-	position:absolute; right:10; bottom:80;
+	position:absolute; right:8; bottom:80;
 	
 	
 }
@@ -20,7 +20,9 @@ background-color:#0A8BBF;
 
 width:1000;
 height:100;
-margin: 0 175;
+margin: 0 520;
+font-family: "Luxi Sans", sans-serif;
+color: white;
 }
 
 #cadreConnec {
@@ -28,7 +30,7 @@ margin: 0 175;
  border-style:double;
  border-color:black;
  text-align:center;
- position:absolute; right:10;
+ position:absolute; right:10; top:10;
  width:200;
  }
 
@@ -56,6 +58,8 @@ margin-left:245px;
 background-color:#fff;
 height:620;
 }
+
+
 #footer {
 background-color:#0A8BBF;
 text-align:center;
@@ -72,6 +76,8 @@ input[type=submit] {
     cursor: pointer;
     width: 100%;
 }
+
+
 
 
 
