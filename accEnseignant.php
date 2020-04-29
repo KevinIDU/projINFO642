@@ -7,10 +7,11 @@
     <body>
 	
 		<div id="entete">
+			<h2 id="titre">Bienvenue sur la plateforme de commande de matériel</h2>
 		
 			<div id="cadreConnec">
 			Nom d'utilisateur
-			<p>Se déconnecter</p>
+			<p><a href="index.php">Se déconnecter</p></a>
 			</div>
 			
 		
