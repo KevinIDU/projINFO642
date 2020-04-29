@@ -22,7 +22,15 @@
 <body>
 	<div id="barre_init">
 	<?php 
-	$valeur_etat = "etat3";
+	include("connexion_base.php");
+
+	$sql = "SELECT * FROM `demande_travaux` WHERE id_demande_travaux = 1";
+	$sth = $base->prepare($sql);
+	$sth->execute();
+	$result = $sth->fetchAll();
+	$etat =  $result[0][1];
+
+	$valeur_etat = $etat;
 	if($valeur_etat =="etat0" ){
 		echo '<div id="barre_valeur0">
 							<h1>Pas de commande en cours</h1>
