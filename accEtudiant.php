@@ -7,10 +7,11 @@
     <body>
 	
 		<div id="entete">
+			<h2 id="titre">Bienvenue sur la plateforme de commande de matériel</h2>
 		
 			<div id="cadreConnec">
 			Nom d'utilisateur
-			<p>Se déconnecter</p>
+			<p><a href="index.php">Se déconnecter</p></a>
 			</div>
 			
 		
@@ -18,7 +19,7 @@
 
 		<div id="main">
 			<div id="menu">
-			<input type="submit" id='submit' value='FAIRE UNE DEMANDE' >
+			<input type="submit" id='submit'onclick=window.location.href='page_2.php' value='FAIRE UNE DEMANDE' >
 			<input type="submit" id='submit' value='MES DEMANDES' >
 			<input type="submit" id='submit' value='CONTACTER UN ENSEIGNANT' >
 			<input type="submit" id='submit' value='CONTACTER UN TECHNICIEN' >
